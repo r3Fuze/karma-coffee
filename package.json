@@ -16,5 +16,8 @@
     "testing"
   ],
   "author": "Morten Lindhardt <r3fuze@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "karma": "^0.13.15"
+  }
 }
